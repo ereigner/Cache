@@ -1,6 +1,4 @@
 # HW4
-# REMINDER: The work in this assignment must be your own original work and must be completed alone.
-# Worked with TA Harsh and LA Daniel
 
 class Node:
     def __init__(self, content):
